@@ -8,8 +8,19 @@
 
 ##   :star2: About my
 
-- Me encanta crear herramientas que tengan un impacto positivo en otros.
-- Me gusta trabajar en un ambiente colorativo, con sentido de comunidad y dinámico donde pueda aprender  constantemente nuevas tecnologías y habilidades.
+>>Me encanta escribir código porque me permite construir herramientas para trasformar y mejorar las vidas de las personas.
+
+>>Quiero trabajar en un espacio, donde resuelva problemas de forma colaborativa, conformando una comunidad dinámica para lograr objetivos, donde en el proceso adquiera nuevos    conocimientos en tecnologías y habilidades, tanto profesional y personal.
+
+>>Mi experiencia más reciente, fue realizar una single page aplicación (SPA) como parte del bootcamp Soy Henry, que consiste en la visualización de datos específicos, de países obtenidos de una API externa.
+Tiene funcionalidades de filtrado y ordenamiento por diferentes datos, cuenta con paginación, es posible a partir de un formulario controlado agregar datos de actividades turísticas.
+Logrando la aplicación de mis conocimientos en: Express, JavaScript, React, Express, Node, Redux, StyledComponents, CSS, HTML, Git, SQL, PostgreSQL, Sequelize.
+Adquirí la capacidad de autogestión para poder cumplir el objetivo, la participación en una comunidad para la resolución de problemas que se presentaban.
+
+>>Actualmente, estoy en la etapa final del bootcamp de Soy Henry, donde desarrolle en grupo, una App destinada a resolver la búsqueda de trasportistas autónomos de cargas, como por ejemplo una mudanza, que pueden seleccionar un viaje solicitado por un usuario. Donde estoy adquiriendo nuevos conocimientos de TypeScript, ReacNative, Socket.io.
+
+>>En lo próximo estoy muy entusiasmado en aprender Python, para el manejo de datos.
+
 
 
 ## 🛠️ Skills
