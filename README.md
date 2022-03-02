@@ -140,3 +140,12 @@ Adquirí la capacidad de autogestión para poder cumplir el objetivo, la partici
 <p align="center">
 <a href="mailto:facundoomargarcia@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
 </p>
+
+
+
+## Videos Proyectos <img src='https://user-images.githubusercontent.com/80924136/156452463-36ef5122-b8e1-4820-aa30-3701595eeacc.png' width="40" height="40"/>
+<hr/>
+
+[![VIDEO](https://img.youtube.com/vi/gE65OlMEMvw/0.jpg)](https://www.youtube.com/watch?v=gE65OlMEMvw)
+
+
