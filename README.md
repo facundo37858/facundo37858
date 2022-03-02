@@ -142,10 +142,11 @@ Adquirí la capacidad de autogestión para poder cumplir el objetivo, la partici
 </p>
 
 
+ ## ✨ Videos Proyectos
 
-## Videos Proyectos <img src='https://user-images.githubusercontent.com/80924136/156452463-36ef5122-b8e1-4820-aa30-3701595eeacc.png' width="40" height="40"/>
 <hr/>
 
-[![VIDEO](https://img.youtube.com/vi/gE65OlMEMvw/0.jpg)](https://www.youtube.com/watch?v=gE65OlMEMvw)
+
+[![VIDEO](https://img.youtube.com/vi/Dkwy76KY_Ig/0.jpg)](https://www.youtube.com/watch?v=Dkwy76KY_Ig)
 
 
