@@ -148,5 +148,6 @@ Adquirí la capacidad de autogestión para poder cumplir el objetivo, la partici
 
 
 [![VIDEO](https://img.youtube.com/vi/Dkwy76KY_Ig/0.jpg)](https://www.youtube.com/watch?v=Dkwy76KY_Ig)
+[![VIDEO](https://img.youtube.com/vi/OY7rJpGkS8I/0.jpg)](https://www.youtube.com/watch?v=OY7rJpGkS8I)
 
 
